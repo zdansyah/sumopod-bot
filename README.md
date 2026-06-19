@@ -1,7 +1,8 @@
-![Screenshot Proyek](SCREENSHOT.jpg)
 # 🤖 Sumopod Domain Bot
 
 > **Automation CLI bot untuk manajemen domain di platform [Sumopod](https://sumopod.com) — login, beli domain, ubah nameserver, dan cek status domain, semuanya dari terminal.**
+
+![Screenshot Proyek](SCREENSHOT.jpg)
 
 ---
 
