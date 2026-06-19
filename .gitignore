@@ -1,5 +1,19 @@
-# Object file
-*.o
+# Dependencies
+node_modules/
 
-# Ada Library Information
-*.ali
+# Sensitive configuration
+.env
+
+# Session data (contains auth tokens)
+session.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+debug_*.js
