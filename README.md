@@ -1,0 +1,2 @@
+# sumopod-bot
+AUTO CHECKOUT DOMAIN &amp; AUTO SET NAME SERVER
